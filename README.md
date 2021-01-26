@@ -1,8 +1,6 @@
-## Amazon Clone
+## Amazon Clone in React
 
-Fully Functional E-Commerce Website wiht Stripe Payment.
-
-Live Website: https://clone-36782.web.app/
+Credits: Clever programmer
 
 Image:
 <img src="public/amazon-clone-react.png" />
